@@ -1,0 +1,535 @@
+1
+00:00:04,420 --> 00:00:08,039
+OpenA AI deploys $4 billion enterprise AI service.
+
+2
+00:00:08,460 --> 00:00:12,689
+Embedding dedicated AI teams inside client organizations shifts the
+
+3
+00:00:12,689 --> 00:00:16,579
+engagement from software licenses to ongoing operational control.
+
+4
+00:00:16,860 --> 00:00:20,700
+Systems integrators now find themselves competing directly against the model
+
+5
+00:00:20,700 --> 00:00:25,020
+builder for internal headcount budgets rather than just reselling access.
+
+6
+00:00:25,379 --> 00:00:28,139
+Legacy players will likely accelerate their acquisition
+
+7
+00:00:28,139 --> 00:00:29,959
+sprees over the next 6 months,
+
+8
+00:00:30,219 --> 00:00:33,419
+simply to hold on to mid-tier enterprise accounts that demand embedded.
+
+9
+00:00:33,685 --> 00:00:34,215
+Support.
+
+10
+00:00:34,604 --> 00:00:37,014
+Watch what happens to the API margin when this
+
+11
+00:00:37,014 --> 00:00:40,994
+hits enterprise SLAs and custom workflows become the default.
+
+12
+00:00:41,365 --> 00:00:45,205
+Watch Microsoft finds AI agents unreliable for long tasks.
+
+13
+00:00:45,404 --> 00:00:47,564
+Most benchmarks celebrate short wins,
+
+14
+00:00:47,685 --> 00:00:51,205
+yet the Delegate 52 results expose how quickly context
+
+15
+00:00:51,205 --> 00:00:54,514
+drifts once tasks stretch beyond a dozen steps.
+
+16
+00:00:54,845 --> 00:00:58,805
+Document corruption rates spike in multi-step professional flows because
+
+17
+00:00:58,805 --> 00:01:02,525
+models lose track of prior constraints without explicit re-anchoring.
+
+18
+00:01:02,849 --> 00:01:07,040
+Expect vendors to push hybrid human AI review layers as standard
+
+19
+00:01:07,260 --> 00:01:10,010
+within the next year rather than pure autonomy.
+
+20
+00:01:10,260 --> 00:01:11,980
+The reliability gap will widen the
+
+21
+00:01:11,980 --> 00:01:15,099
+moat for firms already selling workflow orchestration
+
+22
+00:01:15,459 --> 00:01:17,099
+instead of raw model access
+
+23
+00:01:17,250 --> 00:01:19,800
+as buyers demand auditable checkpoints.
+
+24
+00:01:20,260 --> 00:01:23,559
+Google leaks Gemini Omni conversational video system.
+
+25
+00:01:23,900 --> 00:01:27,620
+Natural language video editing sounds simple until every prompt
+
+26
+00:01:27,620 --> 00:01:31,180
+rewrite triggers a full re-render across the entire timeline.
+
+27
+00:01:31,470 --> 00:01:35,300
+The leaked system appears to maintain state across multiple turns,
+
+28
+00:01:35,510 --> 00:01:39,180
+which changes the economics for creators who currently pay per generation
+
+29
+00:01:39,680 --> 00:01:41,089
+rather than per session.
+
+30
+00:01:41,349 --> 00:01:46,089
+Expect shorter form platforms to add persistent context features within 9 months
+
+31
+00:01:46,269 --> 00:01:49,860
+or watch their power users migrate to conversational interfaces.
+
+32
+00:01:50,150 --> 00:01:52,069
+The real test arrives when enterprise
+
+33
+00:01:52,069 --> 00:01:55,250
+compliance teams require full detailed version history
+
+34
+00:01:55,389 --> 00:01:58,150
+that survives iterative natural language changes.
+
+35
+00:01:59,250 --> 00:02:03,129
+Saka AI launches multi-model orchestration tool routing
+
+36
+00:02:03,129 --> 00:02:05,739
+tasks across competing frontier models based on
+
+37
+00:02:05,739 --> 00:02:08,770
+reinforcement learning flips the usual assumption that
+
+38
+00:02:08,770 --> 00:02:11,229
+bigger single models win on every query.
+
+39
+00:02:11,529 --> 00:02:14,320
+Early tests suggest cost reductions of 30%
+
+40
+00:02:14,320 --> 00:02:17,630
+on mixed workloads without sacrificing output quality.
+
+41
+00:02:17,880 --> 00:02:20,440
+The bigger shift comes when orchestration layers
+
+42
+00:02:20,440 --> 00:02:23,100
+start negotiating API terms in real time
+
+43
+00:02:23,279 --> 00:02:26,389
+based on live performance feedback loops that reward cheaper,
+
+44
+00:02:26,630 --> 00:02:27,600
+successful paths.
+
+45
+00:02:27,960 --> 00:02:32,539
+This forces OpenAI and Anthropic to expose more granular pricing signals
+
+46
+00:02:32,720 --> 00:02:35,839
+or lose routing share to smarter conductors running the show.
+
+47
+00:02:36,589 --> 00:02:39,410
+Musk's OpenAI trial hits closing arguments.
+
+48
+00:02:39,669 --> 00:02:40,589
+Inside the courtroom.
+
+49
+00:02:40,669 --> 00:02:43,889
+The debate has narrowed to one clause in the original charter.
+
+50
+00:02:44,110 --> 00:02:47,690
+If the judge rules that OpenAI breached its nonprofit roots,
+
+51
+00:02:47,910 --> 00:02:50,110
+every current enterprise customer faces a
+
+52
+00:02:50,110 --> 00:02:52,529
+choice between renegotiating or walking.
+
+53
+00:02:52,750 --> 00:02:56,380
+That outcome would hand Microsoft leverage it has never enjoyed before.
+
+54
+00:02:56,710 --> 00:02:59,550
+Watch for renewed pressure on model access pricing within
+
+55
+00:02:59,550 --> 00:03:02,949
+9 months as legal teams rewrite procurement playbooks.
+
+56
+00:03:03,250 --> 00:03:06,490
+The spectacle masks a quieter scramble over who actually
+
+57
+00:03:06,490 --> 00:03:09,300
+owns the weights and the subsequent training runs.
+
+58
+00:03:09,850 --> 00:03:12,669
+Graduates boo AI mentions at commencements.
+
+59
+00:03:12,850 --> 00:03:15,410
+The boos reveal more about job market fears
+
+60
+00:03:15,410 --> 00:03:18,229
+than any philosophical stance on the technology itself.
+
+61
+00:03:18,850 --> 00:03:20,970
+Top computer science departments now watch
+
+62
+00:03:20,970 --> 00:03:23,149
+their placement rates with the same anxiety
+
+63
+00:03:23,289 --> 00:03:24,610
+that once greeted Wall Street banks.
+
+64
+00:03:24,740 --> 00:03:25,190
+Thanks.
+
+65
+00:03:25,429 --> 00:03:26,070
+Within a year,
+
+66
+00:03:26,360 --> 00:03:28,990
+expect Stanford and MIT to expand ethics
+
+67
+00:03:28,990 --> 00:03:32,259
+requirements while cutting industry sponsored AI projects.
+
+68
+00:03:32,550 --> 00:03:36,270
+Recruiters from the Frontier labs will face empty info sessions unless
+
+69
+00:03:36,270 --> 00:03:39,789
+they start talking about alignment roles instead of scaling clusters.
+
+70
+00:03:40,080 --> 00:03:42,139
+The next cohort is voting with its feet.
+
+71
+00:03:42,759 --> 00:03:45,470
+Pope Leo's encyclical to address AI risks.
+
+72
+00:03:46,160 --> 00:03:47,949
+University chaplains report a sudden spike
+
+73
+00:03:47,949 --> 00:03:50,380
+in student questions about machine consciousness
+
+74
+00:03:50,550 --> 00:03:52,470
+that no syllabus prepared them for.
+
+75
+00:03:52,759 --> 00:03:55,639
+The encyclical will likely give cover to Catholic pension
+
+76
+00:03:55,639 --> 00:03:58,250
+funds already reviewing their holdings in the sector.
+
+77
+00:03:58,500 --> 00:04:01,440
+Expect several major asset managers to screen out front.
+
+78
+00:04:01,595 --> 00:04:05,895
+Tier model developers within the next 12 months to avoid pulpit pushback.
+
+79
+00:04:06,574 --> 00:04:10,675
+European regulators gain an unexpected moral ally that complicates any attempt
+
+80
+00:04:10,675 --> 00:04:13,835
+to soften the AI Act before the next election cycle.
+
+81
+00:04:14,175 --> 00:04:15,014
+Ken Griffin,
+
+82
+00:04:15,175 --> 00:04:18,084
+AI agents replaced PhD finance roles.
+
+83
+00:04:18,415 --> 00:04:22,894
+PhD pipelines into quantitative finance lost their clearest value proposition.
+
+84
+00:04:23,179 --> 00:04:27,049
+The real shift hits not at entry level but in the mid-career ranks
+
+85
+00:04:27,049 --> 00:04:29,220
+where teams once spent quarters stress testing
+
+86
+00:04:29,220 --> 00:04:32,209
+strategies that agents now iterate overnight.
+
+87
+00:04:32,500 --> 00:04:35,420
+Citadel's peers will have to match the speed or watch
+
+88
+00:04:35,420 --> 00:04:39,350
+alpha decay as faster agents capture the same signals first.
+
+89
+00:04:39,579 --> 00:04:40,640
+Within 18 months,
+
+90
+00:04:40,899 --> 00:04:42,980
+expect fewer new Quant funds launched from
+
+91
+00:04:42,980 --> 00:04:46,320
+academia and more internal AI infrastructure budgets.
+
+92
+00:04:46,500 --> 00:04:48,399
+The credential becomes a latency cost.
+
+93
+00:04:49,140 --> 00:04:52,809
+Malta First Nation with nationwide chat GPT plus.
+
+94
+00:04:53,130 --> 00:04:56,470
+Malta's rollout turns every citizen prompt into a live
+
+95
+00:04:56,470 --> 00:04:59,920
+AB test for model reliability under real constraints.
+
+96
+00:05:00,290 --> 00:05:04,859
+Regulators get a year of telemetry that private labs would pay millions to access.
+
+97
+00:05:05,095 --> 00:05:08,915
+Those results will shape Brussels policy faster than any white paper.
+
+98
+00:05:09,214 --> 00:05:12,524
+Smaller EU states are already circling similar offers.
+
+99
+00:05:12,815 --> 00:05:15,934
+Usage spikes during tax season will tell the real story.
+
+100
+00:05:16,174 --> 00:05:18,375
+This forces Google to match the free tier
+
+101
+00:05:18,375 --> 00:05:21,075
+in one member country or seed compliance ground.
+
+102
+00:05:21,730 --> 00:05:25,940
+Recursive superintelligence raises $4.65 billion.
+
+103
+00:05:26,220 --> 00:05:28,859
+Self-improving loops still collapse once synthetic
+
+104
+00:05:28,859 --> 00:05:31,290
+data starts reinforcing its own mistakes.
+
+105
+00:05:31,619 --> 00:05:36,000
+Tian Yongdong's raise buys 18 months to prove the curve bends upward instead.
+
+106
+00:05:36,540 --> 00:05:38,339
+Most observers expect plateaus.
+
+107
+00:05:38,420 --> 00:05:39,579
+By late next year.
+
+108
+00:05:39,779 --> 00:05:41,690
+The first sign will appear in internal EA
+
+109
+00:05:41,690 --> 00:05:44,559
+scores that stop improving after two cycles.
+
+110
+00:05:44,750 --> 00:05:47,079
+Investors are pricing in the upside anyway.
+
+111
+00:05:47,299 --> 00:05:48,380
+If the bet pays off,
+
+112
+00:05:48,540 --> 00:05:52,220
+OpenAI and Anthropic must either license the technique or watch
+
+113
+00:05:52,220 --> 00:05:55,179
+their fine tuning costs double just to stay competitive.
+
+114
+00:05:55,690 --> 00:05:58,630
+EY withdraws AI study over fabricated data.
+
+115
+00:05:59,170 --> 00:06:03,529
+Big Four reports on AI security have relied on opaque data sets for years.
+
+116
+00:06:03,850 --> 00:06:07,079
+One withdrawal now puts every prior claim under suspicion.
+
+117
+00:06:07,359 --> 00:06:09,809
+Clients will start requiring source code and raw
+
+118
+00:06:09,809 --> 00:06:12,114
+logs before paying for the Next slide deck.
+
+119
+00:06:12,424 --> 00:06:14,674
+EY's move sets a precedent the other
+
+120
+00:06:14,674 --> 00:06:17,445
+three firms cannot ignore without looking complicit.
+
+121
+00:06:17,704 --> 00:06:19,825
+Regulators and financial services are
+
+122
+00:06:19,825 --> 00:06:22,255
+already rewriting vendor assessment checklists.
+
+123
+00:06:22,545 --> 00:06:26,945
+That single change could cut the market for paid research in half inside 2 years.
+
+124
+00:06:27,529 --> 00:06:30,510
+Amazon makes Alexa a persistent AI shopper.
+
+125
+00:06:30,769 --> 00:06:33,410
+Alexa now tracks prices across sessions without
+
+126
+00:06:33,410 --> 00:06:35,589
+users repeating the same query twice.
+
+127
+00:06:35,809 --> 00:06:40,279
+That continuity turns casual browsing into automated replenishment for staples.
+
+128
+00:06:40,649 --> 00:06:43,420
+Rivals without an always on device in the home
+
+129
+00:06:43,420 --> 00:06:46,049
+lose the first mover slot on habit formation.
+
+130
+00:06:46,570 --> 00:06:48,890
+Early data from the pilot shows reorders
+
+131
+00:06:48,890 --> 00:06:51,720
+happening 3 times faster than app-based flows.
+
+132
+00:06:52,049 --> 00:06:54,329
+Margins on those recurring orders will decide
+
+133
+00:06:54,329 --> 00:06:56,769
+whether voice commerce ever turns profitable.
+
+134
+00:06:57,130 --> 00:07:01,049
+Walmart must accelerate its voice features or lose repeat purchase share.
